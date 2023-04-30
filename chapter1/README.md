@@ -1,15 +1,15 @@
-__1일차__
+**1일차**
 
-|번호|문제|체크|
-|----|-------|--|
-|9663|N-Queen|:heavy_check_mark:|
-|3425|고스택||
-|1339|단어 수학|:heavy_check_mark:|
-|1759|암호 만들기|:heavy_check_mark:|
-|1103|게임|:heavy_check_mark:|
-|1039|교환|:heavy_check_mark:|
+| 번호 | 문제        | 체크               |
+| ---- | ----------- | ------------------ |
+| 9663 | N-Queen     | :heavy_check_mark: |
+| 3425 | 고스택      | :heavy_check_mark: |
+| 1339 | 단어 수학   | :heavy_check_mark: |
+| 1759 | 암호 만들기 | :heavy_check_mark: |
+| 1103 | 게임        | :heavy_check_mark: |
+| 1039 | 교환        | :heavy_check_mark: |
 
-__2일차__
+**2일차**
 |번호|문제|체크|
 |----|-------|--|
 |2748|피보나치 수 2|:heavy_check_mark:|
